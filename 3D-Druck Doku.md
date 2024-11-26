@@ -5,20 +5,15 @@
 - falls du etwas mit wissenschaftlichem Hintergrund drucken möchtest, können wir es auch unten im EG in der Vitrine austellen
 - Unser Kooperationspartner ist das MAGIE Giessen, die haben uns sogar im Pilotprojekt einen Drucker zur verfügung gestellt
 - 3D-Druck ist bei uns kostenlos, ihr müsst euch keine Sorgen über versteckte Kosten machen
-- die Idee hinter dem ganzen hier, ist es, unsere Nutzer und Mitarbeiter
-niedrigschwellig mit dem 3D-Druck in Kontakt zu bringen. Nicht jeder
-kann sich einen 3D-Drucker Leisten oder möchte generell nicht so 
-viel Geld für einen Drucker ausgeben. Deswegen bieten wir es hier an.
+- die Idee hinter dem ganzen hier, ist es, unsere Nutzer und Mitarbeiter niedrigschwellig mit dem 3D-Druck in Kontakt zu bringen. Nicht jeder kann sich einen 3D-Drucker Leisten oder möchte generell nicht so viel Geld für einen Drucker ausgeben. Deswegen bieten wir es hier an.
 - als Slicer benutzen wir und würden euch bitten ihn auch zu benutzen, den Prusa Slicer, er kommt wie unsere Drucker aus dem Hause Prusa und bietet die beste Kompatibilität zwischen Drucker und Slicer.
 
 ## Raumnutzung
 - um in den Raum reinzukommen müsst ihr eine Einweisung bekommen. Habt ihr diese bekommen, müsst ihr die Nutzungsregeln unterschreiben und dürft losdrucken.
 - bitte beachten, jedes mal wenn man den Raum betritt, muss man sich ins Nutzungsprotokoll eintragen
-- um den Schlüssel für den Raum zu bekommen, müsst ihr an der Auskunft
-im ersten Stock eure Chipkarte und den CHip vorzeigen den wir in der Einweisung gedruckt haben.
+- um den Schlüssel für den Raum zu bekommen, müsst ihr an der Auskunft im ersten Stock eure Chipkarte und den CHip vorzeigen den wir in der Einweisung gedruckt haben.
 - Nutzen kann man die Drucker immer wenn sie gerade keiner benutzt, nach dem Motto wer zuerst kommt, mahlt zuerst.
-- Bei zu vielen Problemen mit der Raumbesetzung werden wir ein 
-Buchungssystem einführen
+- Bei zu vielen Problemen mit der Raumbesetzung werden wir ein Buchungssystem einführen
 - Die Nutzungszeiten des 3D-Druckers sind gleichzeitig unsere Öffnungszeiten, 7:30 Uhr - 22:45 Uhr
 
 ## Während dem Druck
@@ -28,21 +23,17 @@ Buchungssystem einführen
 1. Mit "Stop", damit bricht der Drucker den Druck ab und man müsste den Druck von vorne starten
 2. Mit "Pause", damit pausiert der Drucker und kann mit "Weiter" den Druck fortsetzen
 3. Mit der "Reset"-Taste, startet man den Drucker neu und müsste somit den Druck neu starten
-- Um den Drucker einwandfrei drucken zu lassen bitte nicht mit dem Tisch wackeln und bei Zugluftgefahr
-beim drucken mit dem Mini das Fenster lieber geschlossen halten, beim MK4S schützt das Gehäuse vor Zugluft
+- Um den Drucker einwandfrei drucken zu lassen bitte nicht mit dem Tisch wackeln und bei Zugluftgefahr beim drucken mit dem Mini das Fenster lieber geschlossen halten, beim MK4S schützt das Gehäuse vor Zugluft
 
 ## Sicherheit
 Beim 3D-Drucken arbeitet man mit heißen Teilen und Oberflächen, deswegen sollte man auf gewisse Sachen achten:
 
 - Währen der Drucker druckt oder in der Vorbereitung dazu ist, nicht in den Drucker greifen, die Düse kann bis zu 290 Grad und die Druckplatte bis zu 120 Grad heiß werden, deswegen kann man sich bei der kleinsten Berührung verbrennen.
 - Lange Haare sollten zusammengebunden werden und lange hängende Ärmel sollten hochgekrempelt werden
-- Da das Ganze ein "Learning-by-doing"-Prozess ist, solltet Ihr, falls beim Drucken Probleme auftauchen, 
-selbst versuchen das Problem zu lösen. Im Raum habt ihr Handbücher und Internet, ihr könnt nach Lösungen suchen
-und Prusa hat einen 24/7 Kundensupport mit Direktchat (auf Englisch)
+- Da das Ganze ein "Learning-by-doing"-Prozess ist, solltet Ihr, falls beim Drucken Probleme auftauchen, selbst versuchen das Problem zu lösen. Im Raum habt ihr Handbücher und Internet, ihr könnt nach Lösungen suchen und Prusa hat einen 24/7 Kundensupport mit Direktchat (auf Englisch)
 - Falls ihr keine Lösung finden könnt, könnt ihr im GitLab ein Ticket öffnen und Frank oder Nico markieren.
 - Falls schwerwiegende Probleme wie Feuer oder derariges herrscht, könnt ihr an der Auskunft im 1.Stock fragen ob man Frank oder Nico anrufen kann um schnell zu helfen.
-- Fall man mit anderem Filament als PLA drucken möchte, bitte uns erst schreiben und sich selbst darüber informieren, worauf man achten sollte. Manche Filamentsorten wie z.B. ASA stoßen beim Schmelzverfahren Giftstoffe aus
-die Menschen nicht einatmen sollte. Bei solchen Filamentsorten bitte nur den MK4S im Gehäuse benutzen, im Gehäuse ist ein Filter miteingebaut der die Giftstoffe herausfiltert und somit sicher für Menschen macht, niemals den Mini dafür benutzen
+- Fall man mit anderem Filament als PLA drucken möchte, bitte uns erst schreiben und sich selbst darüber informieren, worauf man achten sollte. Manche Filamentsorten wie z.B. ASA stoßen beim Schmelzverfahren Giftstoffe aus die Menschen nicht einatmen sollte. Bei solchen Filamentsorten bitte nur den MK4S im Gehäuse benutzen, im Gehäuse ist ein Filter miteingebaut der die Giftstoffe herausfiltert und somit sicher für Menschen macht, niemals den Mini dafür benutzen
 - Bitte bei Beginn des Drucks beim MK4S die Türen des Gehäuses schließen und erst wieder öffnen wenn der Druck fertig ist
 
 ## Filament
