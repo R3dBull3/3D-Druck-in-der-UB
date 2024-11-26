@@ -1,7 +1,7 @@
 # 3D-Druck Dokumentation
 
 Hallo liebe Nutzer,
-schön dass ihr euch für 3D-Druck interessiert. Im folgenden Dokument erkläre ich euch alles was ihr wissen müsst, um bei uns an der Uni den 3D-Drucker benutzen zu können. Falls ihr euch in Zukunft beim Drucken an irgenwelche Regeln oder oder generell an etwas nicht erinnern könnt, könnt ihr es hier immer nachlesen.
+schön dass ihr euch für 3D-Druck interessiert. Im folgenden Dokument erkläre ich euch alles was ihr wissen müsst, um bei uns an der Uni den 3D-Drucker benutzen zu können. Falls ihr euch in Zukunft beim Drucken an irgenwelche Regeln oder generell an etwas nicht erinnern könnt, könnt ihr es hier immer nachlesen.
 Viel Spaß beim Drucken!
 
 ## Allgemeines
