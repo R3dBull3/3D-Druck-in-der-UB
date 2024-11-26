@@ -1,5 +1,9 @@
 # 3D-Druck Dokumentation
 
+Hallo liebe Nutzer,
+schön dass ihr euch für 3D-Druck interessiert. Im folgenden Dokument erkläre ich euch alles was ihr wissen müsst, um bei uns an der Uni den 3D-Drucker benutzen zu können. Falls ihr euch in Zukunft beim Drucken an irgenwelche Regeln oder oder generell an etwas nicht erinnern könnt, könnt ihr es hier immer nachlesen.
+Viel Spaß beim Drucken!
+
 ## Allgemeines
 - im 3D-Druck Raum dutzen wir uns
 - falls du etwas mit wissenschaftlichem Hintergrund drucken möchtest, können wir es auch unten im EG in der Vitrine austellen
@@ -55,8 +59,7 @@ Beim 3D-Drucken arbeitet man mit heißen Teilen und Oberflächen, deswegen sollt
 ## Andere Gerätschaften
 Neben den 3D-Druckern haben wir auch noch einen Filamenttrockner und ein Vakuumiergerät
 
-- Filamenttrockner: man tut eine Rolle Filament in den Filamenttrockner, die Rolle sollte von unten nach oben gerollt sein,
-das Endstück vom Filament steckt man durch die weiße Öffnung am Verschluss des Trockners,
+- Filamenttrockner: man tut eine Rolle Filament in den Filamenttrockner, die Rolle sollte von unten nach oben gerollt sein, das Endstück vom Filament steckt man durch die weiße Öffnung am Verschluss des Trockners,
 anschließend stöpselt man den Trockner ein und stellt die Temperatur auf Stufe 2 von 3
 
 - Vakuumiergerät: Das Vakuumiergerät ist in einem Karton auf dem Wagen im 3D-Druck-Raum, diese muss man nur per USB an seinen Laptop anschließen und es funktioniert
