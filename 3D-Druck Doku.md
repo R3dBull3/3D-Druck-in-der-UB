@@ -46,8 +46,7 @@ Beim 3D-Drucken arbeitet man mit heißen Teilen und Oberflächen, deswegen sollt
 - Nach dem Druck sollte man den Drucker nicht direkt ausschalten, bitte warten bis der Lüfter von selbst aufhört zu lüften und die Düsentemperatur min auf 100 Grad runtergekühlt ist.
 - Wenn man sein Druck von der Platte gelöst hat, bitte noch Filamentreste die auf der Platte haften, abkratzen
 - Nach sowie vor dem Druck sollte man die Druckplatte mit dem mit Isopropanol eingesprühtem Tuch abwischen um Fett von unseren Fingern von der Platte zu lösen, diese behindert die Haftung des Filaments auf der Druckplatte
-- Wenn das alles geklappt hat kann man den Schalter hinter dem Drucker betätigen um den Drucker auszuschalten und anschließend den Stecker aus der 
-Steckdose ziehen
+- Wenn das alles geklappt hat kann man den Schalter hinter dem Drucker betätigen um den Drucker auszuschalten und anschließend den Stecker aus der Steckdose ziehen
 
 ## Support
 - Support gibt es von Montag bis Freitag von 7:30 Uhr bis in der Regel 16 Uhr, falls ihr später Fragen haben solltet, antworten wir (sofern einer von uns da ist)am nächsten Morgen
@@ -60,6 +59,5 @@ Neben den 3D-Druckern haben wir auch noch einen Filamenttrockner und ein Vakuumi
 das Endstück vom Filament steckt man durch die weiße Öffnung am Verschluss des Trockners,
 anschließend stöpselt man den Trockner ein und stellt die Temperatur auf Stufe 2 von 3
 
-- Vakuumiergerät: Das Vakuumiergerät ist in einem Karton auf dem Wagen im 3D-Druck-Raum, 
-diese muss man nur per USB an seinen Laptop anschließen und es funktioniert
+- Vakuumiergerät: Das Vakuumiergerät ist in einem Karton auf dem Wagen im 3D-Druck-Raum, diese muss man nur per USB an seinen Laptop anschließen und es funktioniert
 - bitte Filamentrollen die nicht mehr gebraucht werden im eine Vakuumtüte packen, diese verschließen und mit dem Vakuumiergerät an den weißen Plastikkreis an der Tüte drücken, jetzt nur noch den Knopf oben am Gerät betätigen und es wird vakuumiert
